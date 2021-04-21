@@ -1,1 +1,1 @@
-# degen-vc-v2
+# Degen VC v2
